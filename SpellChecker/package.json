@@ -1,0 +1,17 @@
+{
+  "name": "SpellChecker",
+  "version": "1.0.0",
+  "description": "Provides basic spellchecking functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noodlebox",
+  "license": "MIT",
+  "dependencies": {
+    "nspell": "^1.0.3"
+  },
+  "optionalDependencies": {
+    "dictionary-en-us": "^2.0.0"
+  }
+}
